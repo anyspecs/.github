@@ -1,2 +1,3 @@
-# .github
-Move your specs Anywhere.
+# Any Specs
+
+This is the readme repo on the profile of organization.
